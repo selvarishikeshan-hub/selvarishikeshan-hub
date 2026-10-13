@@ -1,30 +1,31 @@
-# Hi, I'm Rishikesh 
+# Hey, I'm Rishikesh 👋
 
-🎓 Diploma in Computer Science student at TAR UMT, Malaysia.
+🎓 Computer Science Diploma Student at TAR UMT, Malaysia.
 
-I'm interested in software development, problem-solving, and building practical applications. I use my projects to strengthen my programming skills and learn industry-relevant practices.
+I'm currently working with **C++**, improving my programming and debugging skills, and building projects to turn what I learn into practical applications.
 
-##  Technical Skills
+## What I Know
 
-- **Programming:** C++
-- **Debugging:** Troubleshooting, testing, and fixing code
-- **Tools:** Git, GitHub, Visual Studio Code
+- **C++** — programming, problem-solving, and debugging
+- **Git & GitHub** — version control and project management
+- **Visual Studio Code** — coding and development
 
-##  What I'm Working On
+## What I'm Building
 
-- Building practical C++ applications
-- Improving my debugging and problem-solving skills
-- Learning professional software development workflows
-- Developing projects for my GitHub portfolio
+- Practical C++ projects
+- Programs focused on solving real-world problems
+- Projects that strengthen my debugging and software development skills
 
-##  My Goals
+##  Currently Learning
 
-To become a skilled software developer, create useful software, and continue learning through hands-on projects throughout my diploma.
+- Writing cleaner, more maintainable code
+- Testing and troubleshooting programs
+- Building a strong foundation in software development
 
-## Connect With Me
+## My Goal
 
-- GitHub: [@selvarishikeshan-hub](https://github.com/selvarishikeshan-hub)
+To grow as a software developer by building useful projects, improving my technical skills, and gaining hands-on experience.
 
 ---
 
-*Learning by building. Improving with every project.*
+*Learning, coding, debugging, and building , one project at a time.*

@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Rishikesh 
 
-<!--
-**selvarishikeshan-hub/selvarishikeshan-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma in Computer Science student at TAR UMT, Malaysia.
 
-Here are some ideas to get you started:
+I'm interested in software development, problem-solving, and building practical applications. I use my projects to strengthen my programming skills and learn industry-relevant practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Technical Skills
+
+- **Programming:** C++
+- **Debugging:** Troubleshooting, testing, and fixing code
+- **Tools:** Git, GitHub, Visual Studio Code
+
+##  What I'm Working On
+
+- Building practical C++ applications
+- Improving my debugging and problem-solving skills
+- Learning professional software development workflows
+- Developing projects for my GitHub portfolio
+
+##  My Goals
+
+To become a skilled software developer, create useful software, and continue learning through hands-on projects throughout my diploma.
+
+## Connect With Me
+
+- GitHub: [@selvarishikeshan-hub](https://github.com/selvarishikeshan-hub)
+
+---
+
+*Learning by building. Improving with every project.*
